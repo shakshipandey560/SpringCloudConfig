@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to Bank accounts related prod APIs "
+  message: "Welcome to Bank accounts related Production APIs "
   contactDetails:
     name: "Reine Aishwarrya - Product Owner"
     email: "john@eazybank.com"
@@ -10,4 +10,5 @@ accounts:
     - (555) 555-1229
 
     - (555) 523-1384
+
 
